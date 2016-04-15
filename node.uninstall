@@ -1,0 +1,6 @@
+npm uninstall npm -g
+rm -rf /usr/local/{lib/node{,/.npm,_modules},bin,share/man}/npm*
+find /usr/local/{lib/node,bin} -exec grep -l npm \{\} \; ;
+rm -rf /usr/local/bin/node
+rm -rf /usr/local/bin/node
+rm -rf /usr/local/bin/yo
