@@ -1,0 +1,10 @@
+sudo rm -rf /Applications/Unity
+sudo rm -rf ~/Library/Application Support/Unity
+sudo rm -rf ~/Library/Caches/com.unity3d.*
+sudo rm -rf ~/Library/Logs/Unity
+sudo rm -rf ~/Library/Preferences/Unity
+sudo rm -rf ~/Library/Preferences/com.unity3d.*
+sudo rm -rf ~/Library/Unity
+sudo rm -rf ~/Library/Preferences/com.OverTheEdge.BugReporter.plist
+sudo rm -rf ~/Library/Preferences/dk.Otee.*
+sudo rm -rf /Library/Application Support/PACE Anti-Piracy
